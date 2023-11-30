@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+> A primate-like creatures that happen to know how to press a keyboard.
+
 <!--
 **Jinx-FX/Jinx-FX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
